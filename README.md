@@ -1,10 +1,11 @@
 # Sentiment-Analysis-of-IMDB-film-Reviews
 
-### Dataset has been taken from Kaggle and experimented.
+### The Dataset used in the notebook has been sourced from Kaggle.
 
+# Steps perfomed:
 ## 1. Cleaning Text Data
   a. Removing Punctuation Marks and HTML Tags <br />
-  b. Converting every letter <br />
+  b. Lowercasing letters <br />
   c. Converting every number to corresponding text(i.e. '5' is converted to 'five') <br />
   d. Removing Stop Words <br />
 ## 2. Data Normalization 
