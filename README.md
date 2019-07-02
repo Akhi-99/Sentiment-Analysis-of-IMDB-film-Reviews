@@ -1,13 +1,15 @@
 # Sentiment-Analysis-of-IMDB-film-Reviews
 
-## 1. Text data pre-processing 
-  a. Removing Punctuation and HTML Tags <br />
+### Dataset has been taken from Kaggle and experimented.
+
+## 1. Cleaning Text Data
+  a. Removing Punctuation Marks and HTML Tags <br />
   b. Converting every letter <br />
   c. Converting every number to corresponding text(i.e. '5' is converted to 'five') <br />
   d. Removing Stop Words <br />
-## 2. Normalizing Text Data
-  a. Stemming <br />
-  b. Lemmatization <br />
+## 2. Data Normalization 
+  a. Stemming - Porterstemmer <br />
+  b. Lemmatization - WordNetLemmatizer <br />
 ## 3. Data Representation
   a. Vectorization using Binary Representation <br />
   b. Vectorization using Word Count <br />
@@ -15,4 +17,4 @@
 ## 4. Data Classification
   a. Logistic Regression Model <br />
   b. SVM Classifier <br />
-## By Experimenting various model parameters, Finally broke the 90% accuracy mark!
+## After Finetuning the model parameters, Finally broke the 90% accuracy!
