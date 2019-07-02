@@ -2,7 +2,7 @@
 
 ### The Dataset used in the notebook has been sourced from Kaggle.
 
-# Steps perfomed:
+## Steps perfomed:
 ## 1. Cleaning Text Data
   a. Removing Punctuation Marks and HTML Tags <br />
   b. Lowercasing letters <br />
