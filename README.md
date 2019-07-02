@@ -18,4 +18,4 @@
 ## 4. Data Classification
   a. Logistic Regression Model <br />
   b. SVM Classifier <br />
-## After Finetuning the model parameters, Finally broke the 90% accuracy!
+## After tuning the hyper parameters, Finally broke the 90% accuracy!
